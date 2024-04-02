@@ -35,3 +35,5 @@ _Want to add something? Open a PR!_ 🙂
 
 * [Amazon Q, your AWS Expert](https://catalog.us-east-1.prod.workshops.aws/workshops/140d775f-670f-4e22-96e0-545515e7b35f/en-US)
 * [Next Generation Developer Experience with Amazon Q and Amazon CodeWhisperer](https://catalog.workshops.aws/next-gen-dev-data-analysis-with-q/en-US)
+* [Building with Amazon Bedrock and LangChain](https://catalog.workshops.aws/building-with-amazon-bedrock/en-US)
+* [Amazon Bedrock Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/a4bdb007-5600-4368-81c5-ff5b4154f518/en-US)
