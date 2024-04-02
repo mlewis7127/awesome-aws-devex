@@ -1,0 +1,10 @@
+# CloudFormation - Create a VPC with a single public subnet
+
+
+# Create an RDS Postgres instance
+
+
+# Create the RDSSecurityGroup
+
+
+# Output the details of the RDS instance

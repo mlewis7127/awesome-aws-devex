@@ -6,8 +6,11 @@ _Want to add something? Open a PR!_ 🙂
 
 ## Demo Features
 
-* [Code Creation](./code-creation/code-creation.md)
-* [Code Transformation](./code-transformation/code-transformation.md)
+* [Code Creation](./1-code-creation/code-creation.md)
+* [Application Understanding](./2-application-understanding/application-understanding.md)
+* [Application Modernisation](./3-application-modernisation/application-modernisation.md)
+* [Feature Development](./4-feature-development/feature-development.md)
+* [Vulnerability Scanning](./5-vulnerability-scanning/vulnerability-scanning.md)
 
 ## Videos
 
@@ -27,3 +30,8 @@ _Want to add something? Open a PR!_ 🙂
 
 * [Using the Amazon Q Feature Development Capability to produce documentation](https://it20.info/2024/3/using-the-amazon-q-feature-development-capability-to-produce-documentation/)
 * [Transforming Diagrams into Code: AI-Powered IaC with Claude 3 and Amazon Bedrock](https://letsmake.cloud/transforming-diagrams-into-code)
+
+## Workshops
+
+* [Amazon Q, your AWS Expert](https://catalog.us-east-1.prod.workshops.aws/workshops/140d775f-670f-4e22-96e0-545515e7b35f/en-US)
+* [Next Generation Developer Experience with Amazon Q and Amazon CodeWhisperer](https://catalog.workshops.aws/next-gen-dev-data-analysis-with-q/en-US)
