@@ -20,7 +20,7 @@ Amazon CodeWhisperer is trained on billions of lines of Amazon internal and open
 
 ![CodeWhisperer Lambda Function](./code-generation/code-generation.gif)
 
-Try this out for yourself using the `index.mjs` or `index.py` file in the `code-generation` folder.
+Try this out for yourself using the various files in the `code-generation` folder.
 
 There are techniques to help you generate the best recommendation, and you can find out more details in this blog post on [Best practices for prompt engineering with Amazon CodeWhisperer](https://aws.amazon.com/blogs/devops/best-practices-for-prompt-engineering-with-amazon-codewhisperer/).
 

@@ -1,3 +1,5 @@
+![DevEx](./AWS-Developer-Experience.png )
+
 # Awesome AWS Developer Experience
 
 This repository provides simple demos that can be run in your own AWS account to try out features and capabilities of the AWS next generation developer experience. It also provides a curated list of guides and resources for the associated AWS services - in particular Amazon CodeWhisperer, Amazon Q and Amazon Bedrock. This list includes both community created content as well as content created by AWS.
