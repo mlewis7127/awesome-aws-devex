@@ -34,3 +34,10 @@ CodeWhisperer also supports the creation of SQL as a standard language for datab
 
 Try this out for yourself by using the `generate-sql.sql` file in the `sql-support` folder.
 
+
+## Amazon Q in the IDE
+One of my favourite ways of generating code today is using the Amazon Q feature in the IDE. This allows you to create a specific request that is used as the input context.
+
+> **TOP TIP**: Underlying LLMs are trained on a corpus of knowledge that goes back a number of years. When a new version of a framework or library is released (such as with the AWS SDK V3), you should be explicit in the request about the version you wish to use, in order to get a better response
+
+![Amazon Q Code Generation](./AmazonQCodeGeneration.png)
