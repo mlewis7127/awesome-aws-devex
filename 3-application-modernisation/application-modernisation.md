@@ -18,6 +18,8 @@ Code optimisation is a concept supported by Amazon Q through its built-in prompt
 
 ![Amazon Q Optimise](./AmazonQOptimise.png)
 
+You can try out some examples of how `Amazon Q` makes code optimisation suggestions by using any of the functions declared in the `code-optimisation.js` file in the `code-optimisation` folder.
+
 ## Code Translation
 Code translation is another concept support by Amazon Q through prompts. As always, the accuracy and quality of the code generation is dependent upon the size and quality of the training data. In this context, there is more support for languages such as Java, Python and JavaScript than C++ or Scala. In the screenshot below, we have taken an AWS Lambda function written in JavaScript and asked Amazon Q to translate to Python.
 
