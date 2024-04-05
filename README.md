@@ -1,10 +1,16 @@
 ![DevEx](./AWS-Developer-Experience.png )
 
 # Awesome AWS Developer Experience
-
 This repository provides simple demos that can be run in your own AWS account to try out features and capabilities of the AWS next generation developer experience. It also provides a curated list of guides and resources for the associated AWS services - in particular Amazon CodeWhisperer, Amazon Q and Amazon Bedrock. This list includes both community created content as well as content created by AWS.
 
 _Want to add something? Open a PR!_ 🙂
+
+## Similar Guides
+There are a number of similar repos targetting other AWS services. A non-exhaustive list is provided below:
+
+* [Awesome EventBridge](https://github.com/boyney123/awesome-eventbridge)
+* [Awesome DynamoDB](https://github.com/alexdebrie/awesome-dynamodb)
+* [Awesome ECS](https://github.com/nathanpeck/awesome-ecs)
 
 ## Demo Features
 
