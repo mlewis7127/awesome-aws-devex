@@ -12,6 +12,7 @@ There are a number of similar repos targetting other AWS services. A non-exhaust
 * [Awesome DynamoDB](https://github.com/alexdebrie/awesome-dynamodb)
 * [Awesome ECS](https://github.com/nathanpeck/awesome-ecs)
 
+
 ## Demo Features
 
 * [Code Creation](./1-code-creation/code-creation.md)
@@ -45,3 +46,7 @@ There are a number of similar repos targetting other AWS services. A non-exhaust
 * [Next Generation Developer Experience with Amazon Q and Amazon CodeWhisperer](https://catalog.workshops.aws/next-gen-dev-data-analysis-with-q/en-US)
 * [Building with Amazon Bedrock and LangChain](https://catalog.workshops.aws/building-with-amazon-bedrock/en-US)
 * [Amazon Bedrock Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/a4bdb007-5600-4368-81c5-ff5b4154f518/en-US)
+
+## Courses
+
+* [Amazon CodeWhisperer - Getting Started](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/16405/amazon-codewhisperer-getting-started) - AWS SkillBuilder free 30 minute course to help you get started with CodeWhisperer in your IDE
