@@ -23,6 +23,10 @@ There are a number of similar repos targetting other AWS services. A non-exhaust
 
 ## Videos
 
+* [I tried coding with Amazon CodeWhisperer... This is what happened](https://www.youtube.com/watch?v=erO_6AX_DXk) - Milan Jovanović shows us how to use Amazon CodeWhisperer from Visual Studio. He also shares his thoughts on using this tool and what he thinks about AI-powered coding in general
+
+### AWS re:Invent 2023 Videos
+
 * [AWS re:Invent 2023 - Build without limits: The next-generation developer experience at AWS](https://www.youtube.com/watch?v=8mUosAh3gLc) - Adam Seligman provides updates on the latest AWS developer tools and services, including capabilities powered by generative AI, low-code abstractions, cloud development, and operations.
 
 * [AWS re:Invent 2023 - Amazon Q: Your new assistant and expert guide for building with AWS](https://www.youtube.com/watch?v=lBJHJmkotcI) - Clare Liguori shows us how Amazon Q is transforming the developer experience by speeding up a range of tasks as you research how to get started, evaluate system design, build secure and scalable applications, upgrade existing applications, and optimize application performance.
