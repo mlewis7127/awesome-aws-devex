@@ -41,8 +41,9 @@ There are a number of similar repos targetting other AWS services. A non-exhaust
 
 ## Blog Posts
 
-* [Using the Amazon Q Feature Development Capability to produce documentation](https://it20.info/2024/3/using-the-amazon-q-feature-development-capability-to-produce-documentation/)
-* [Transforming Diagrams into Code: AI-Powered IaC with Claude 3 and Amazon Bedrock](https://letsmake.cloud/transforming-diagrams-into-code)
+* [Goodbye Elasticsearch, Hello OpenSearch: A Golang Developer's Journey with Amazon Q (Lessons Learned)](https://community.aws/content/2fBVnCWwN5TEa1wEWl5Wah7Vb2A/migrating-golang-project-using-elasticsearch-to-opensearch-with-amazonq) - a blog post by Ricardo Ferreira showing how he used Amazon Q to migrate an application written in Go to replace the backend from Elasticsearch to OpenSearch
+* [Using the Amazon Q Feature Development Capability to produce documentation](https://it20.info/2024/3/using-the-amazon-q-feature-development-capability-to-produce-documentation/) - a blog post by Massimo Re Ferre detailing how the Amazon Q feature development capability can be used to write documentation
+* [Transforming Diagrams into Code: AI-Powered IaC with Claude 3 and Amazon Bedrock](https://letsmake.cloud/transforming-diagrams-into-code) - a blog post by Monica Colangelo looking at how you can take an architecture diagram and translate into Infrastructure-as-Code with Claude 3 and Amazon Bedrock
 
 ## Workshops
 
