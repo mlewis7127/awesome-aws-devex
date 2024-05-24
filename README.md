@@ -1,7 +1,7 @@
 ![DevEx](./AWS-Developer-Experience.png )
 
 # Awesome AWS Developer Experience
-This repository provides simple demos that can be run in your own AWS account to try out features and capabilities of the AWS next generation developer experience. It also provides a curated list of guides and resources for the associated AWS services - in particular Amazon CodeWhisperer, Amazon Q and Amazon Bedrock. This list includes both community created content as well as content created by AWS.
+This repository provides simple demos that can be run in your own AWS account to try out features and capabilities of the AWS next generation developer experience. It also provides a curated list of guides and resources for the associated AWS services - in particular Amazon Q for Developer and Amazon Bedrock. This list includes both community created content as well as content created by AWS.
 
 _Want to add something? Open a PR!_ 🙂
 
@@ -22,6 +22,10 @@ There are a number of similar repos targetting other AWS services. A non-exhaust
 * [Vulnerability Scanning](./5-vulnerability-scanning/vulnerability-scanning.md)
 
 ## Videos
+
+* [Building Terraform Projects with Amazon Q Developer](https://www.youtube.com/watch?v=JSjOUX3zVg8) - Kevon Mayers shows you how to install and use the Amazon Q VSCode extension to maximize your Terraform development experience with AI-powered features like block code completion, inline code completion, code analysis/troubleshooting, and more. Whether you're a seasoned Terraform developer, or just getting started, Amazon Q Developer has got your back!
+
+* [Improve Developer Productivity Using AWS GenAI Capabilities - AWS Community Day Turkiye](https://www.youtube.com/watch?v=xfux7vAp1qU) - Matt Lewis demos many of the features and capabilities available in Amazon Q for Developer
 
 * [I tried coding with Amazon CodeWhisperer... This is what happened](https://www.youtube.com/watch?v=erO_6AX_DXk) - Milan Jovanović shows us how to use Amazon CodeWhisperer from Visual Studio. He also shares his thoughts on using this tool and what he thinks about AI-powered coding in general
 
