@@ -27,6 +27,8 @@ There are a number of similar repos targetting other AWS services. A non-exhaust
 
 * [Improve Developer Productivity Using AWS GenAI Capabilities - AWS Community Day Turkiye](https://www.youtube.com/watch?v=xfux7vAp1qU) - Matt Lewis demos many of the features and capabilities available in Amazon Q for Developer
 
+* [Getting started with Amazon Q Developer in Visual Studio Code](https://www.youtube.com/watch?v=i0zQpJPfSdU) - Rohini Gaonkar, Sr. Developer Advocate at AWS, will show you how to install and use the Amazon Q extension to supercharge your development process with AI-powered features like inline code completion, sophisticated code analysis, and more.
+
 * [I tried coding with Amazon CodeWhisperer... This is what happened](https://www.youtube.com/watch?v=erO_6AX_DXk) - Milan Jovanović shows us how to use Amazon CodeWhisperer from Visual Studio. He also shares his thoughts on using this tool and what he thinks about AI-powered coding in general
 
 ### AWS re:Invent 2023 Videos
